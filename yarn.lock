@@ -7184,10 +7184,10 @@ gatsby-theme-catalyst-header-bigtop@^0.2.0:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-bigtop/-/gatsby-theme-catalyst-header-bigtop-0.2.0.tgz#36232402fc56df823ae0b6abdc7c02025439760c"
   integrity sha512-7YluKINJausbSqRgz8u3Pwahhk6/RK34IpH6Rb5EYIZiEQiKJfxGfgRpBTQCGSOCHRLSUKaGhe0H4BWct6lpYQ==
 
-gatsby-theme-catalyst-helium@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-0.3.1.tgz#b39a5c37db38ecfc21598990e4580968c7dd3868"
-  integrity sha512-g89PP87mqD+kVCcQhUzX1/o/FlQ3GF918M/WjcKPqp2DBXXcf7wl9mRbBq3voWIb0TsqC0Sh5JKsLvGnH7lOvQ==
+gatsby-theme-catalyst-helium@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-0.3.2.tgz#25d1610641447b86510f4f8fa13c637c9926bfa2"
+  integrity sha512-ShB4M7rTyDvXr5sCcNsazO+6vc7fdJoQjf+IA2R3CP7iSAhACe3Cw7EpKP6Sf0v6a1JkBXiDpjJZ+Uh2NO7dxA==
   dependencies:
     gatsby-theme-catalyst-blog "^2.3.2"
     gatsby-theme-catalyst-core "^1.2.9"
@@ -8572,9 +8572,9 @@ inquirer@6.5.0:
     through "^2.3.6"
 
 inquirer@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-7.1.0.tgz#1298a01859883e17c7264b82870ae1034f92dd29"
-  integrity sha512-5fJMWEmikSYu0nv/flMc475MhGbB7TSPd/2IpFV4I4rMklboCH2rQjYY5kKiYGHqUF9gvaambupcJFFG9dvReg==
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-7.2.0.tgz#63ce99d823090de7eb420e4bb05e6f3449aa389a"
+  integrity sha512-E0c4rPwr9ByePfNlTIB8z51kK1s2n6jrHuJeEHENl/sbq2G/S1auvibgEwNR4uSyiU+PiYHqSwsgGiXjG8p5ZQ==
   dependencies:
     ansi-escapes "^4.2.1"
     chalk "^3.0.0"
