@@ -6821,7 +6821,7 @@ gatsby-theme-catalyst-header-bigtop@^0.2.4:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-bigtop/-/gatsby-theme-catalyst-header-bigtop-0.2.4.tgz#492b2eb61586ae3054c2579827d260b4acbe7d93"
   integrity sha512-Bmw9oyf6W9+d19VmD0QxQr9FDEVdqCUpDLsqUC0R3RVfFQ/QDnX8kjFUsqPCCeg7s4fh8cMdboyTRNqEU4cW3w==
 
-gatsby-theme-catalyst-helium@^0.4.3:
+gatsby-theme-catalyst-helium@^0.4.4:
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-0.4.4.tgz#fdacbdccc6e4313e7ad76728ea54dd8cd64aef6f"
   integrity sha512-X4m2ki/1ZiPZ/0h+RyqWII3qXkGrvKenAsCHqSkGrITxK+V5LpH3HZuMhwjln9wLsMlo1IMbka5iANNqkTt6XA==
