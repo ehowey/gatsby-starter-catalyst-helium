@@ -6722,10 +6722,10 @@ gatsby-theme-catalyst-blog@^2.4.4:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-blog/-/gatsby-theme-catalyst-blog-2.4.4.tgz#5cd7dfeecdf288b82852ee00f0bcd53203019508"
   integrity sha512-VnrjfJ7nhk3JLTo+HTBVmmGfujG1yJ360iWZ/ghYiSq9cQjjDkoEfrp4F2JPPCX6WGfWR6GEuGXsEFA6hY3XJw==
 
-gatsby-theme-catalyst-core@^1.3.1:
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.3.1.tgz#539fae563756cb1a9160a0ccb864c413d5ab720b"
-  integrity sha512-lhoJGhZwZ3TpKY6H2Nlso7XMAqrPnRILaJfqV/+30CxAPh0abkXom64sR+TGIC/y6RM35NltlDZ1aSpYcQ+wOw==
+gatsby-theme-catalyst-core@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-2.0.0.tgz#96a6cca6f27da18ae5321eac88120d7f84baae9f"
+  integrity sha512-FNu/vEMQXIYz726QW/w/J7zaeWSXCpF1V7infjb/wMn7AsUUQT41VAkGsssX+5bXomytYq/3OrpzXY/nuKEgtg==
   dependencies:
     "@mdx-js/mdx" "^1.6.14"
     "@mdx-js/react" "^1.6.14"
@@ -6780,13 +6780,13 @@ gatsby-theme-catalyst-header-bigtop@^0.2.5:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-bigtop/-/gatsby-theme-catalyst-header-bigtop-0.2.5.tgz#de6ef0b91f31e5bc37a241ad67175b68a95a7681"
   integrity sha512-A5dt4DJs6cwDkjFfUZMmBP23QKOonQNXSbsuRozL7V5WNrk3VuNmjudVhuyqGo6o/Wk95k8rcdKGf8SPewsdYQ==
 
-gatsby-theme-catalyst-helium@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-1.1.1.tgz#84bd47ec8dedfd5492e60ff29f5a0e01f96e70a5"
-  integrity sha512-ZVg3JDkJCw00dhEMp176mESMM7lEwC+85G3/iQRoKWyfEMc+IX5QfAyrC4gvKC+XUjBBiFOUW172yuZn56hnZg==
+gatsby-theme-catalyst-helium@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-2.0.0.tgz#d5c71237c2993d5e51d98ec8bb462ae5d114f4a2"
+  integrity sha512-3fzd1Vl/ib1b7tA1pSU6a+DAk3i9OBMFyz8+2svUIxEfwobmg34A9QzEpLErqM4EeOwlDLdBQo/D4SZijwX/lw==
   dependencies:
     gatsby-theme-catalyst-blog "^2.4.4"
-    gatsby-theme-catalyst-core "^1.3.1"
+    gatsby-theme-catalyst-core "^2.0.0"
     gatsby-theme-catalyst-footer "^1.1.7"
     gatsby-theme-catalyst-header-bigtop "^0.2.5"
 
