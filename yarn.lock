@@ -7183,20 +7183,20 @@ gatsby-theme-catalyst-footer@^1.2.1:
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-1.2.1.tgz#fdf3c777c8f14c5835891c59751bbb198318992f"
   integrity sha512-yWDB14yO29lrCLA20R0HrdJlhXFCDmZp1W2Z06dWbKxJgiVK619ZgmVBE4kCw1EgPefs4YqzveVAo0z/ckOC2g==
 
-gatsby-theme-catalyst-header-bigtop@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-bigtop/-/gatsby-theme-catalyst-header-bigtop-1.1.1.tgz#796bf2fb312a3b0543c1c0bd05e903f4add91a2a"
-  integrity sha512-GHN30Nd2ST/o2YM+DcyIMAePGwLmQE95LmwrZ1cbz3Jhhyw0arZv9j04skPOEk6bMLTUF0BRU3nsskpEqvwqeg==
+gatsby-theme-catalyst-header-bigtop@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-bigtop/-/gatsby-theme-catalyst-header-bigtop-1.1.2.tgz#80bb1b8ded6d0bb6eee19a05c0dac607e71c3dbb"
+  integrity sha512-6pupWwDu5Tk/nKmnbGWpHZMQaOoMQm9uWbRbIMqwd7fG3hxYu6/uPwd2EkKlWMLhAjOxzXJIcjnqtZZswBvSmQ==
 
-gatsby-theme-catalyst-helium@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-2.2.1.tgz#f16cb2c2e83455234c2d5e8383fa63650e50c80c"
-  integrity sha512-DphUQ97evVv4ts6vDVAbp851k81vTFd4vEq/B0jrWgG8VWPIRkHXF5ODf1u273WUZ9V0evlvPOSyJNfIKXBX/A==
+gatsby-theme-catalyst-helium@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-helium/-/gatsby-theme-catalyst-helium-2.2.2.tgz#e74e99bf169ad0415976ce4d78c9af5899305180"
+  integrity sha512-GZnQS7rLR+t4kLBO+a1+ait1tTunx5OSBaOPC8Ny9b7tTGkh6rakM6l9epDSbPatj/3qEeLLRdNL1CbEoxNRlw==
   dependencies:
     gatsby-theme-catalyst-blog "^2.6.1"
     gatsby-theme-catalyst-core "^2.2.0"
     gatsby-theme-catalyst-footer "^1.2.1"
-    gatsby-theme-catalyst-header-bigtop "^1.1.1"
+    gatsby-theme-catalyst-header-bigtop "^1.1.2"
 
 gatsby-transformer-json@^2.4.11:
   version "2.4.11"
